@@ -10,12 +10,9 @@
 
 <!--    配置spring-boot框架-->
     <parent>
-        <artifactId>spring-boot-dependencies</artifactId>
         <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.3.1.RELEASE</version>
-        <relativePath>
-
-        </relativePath>
     </parent>
 
 <!--    配置java版本-->
